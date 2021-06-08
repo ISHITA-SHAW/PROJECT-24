@@ -1,5 +1,5 @@
-class dustbin{
-    constuctor(x,y,width,height){
+class Dustbin{
+    constructor(x,y,width,height){
     var options = {
     isStatic:true,
     'restitution':0,
